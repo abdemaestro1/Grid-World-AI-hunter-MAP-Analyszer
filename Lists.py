@@ -40,7 +40,7 @@ num = [0,99,3,77,2.5,1]
 num.sort()
 print(num)
 
-#sort with revers just add the reverse mrthod as an argument in pop
+#sort with revers just add the reverse method as an argument in pop
 num.sort(reverse = True)
 print(num)
 

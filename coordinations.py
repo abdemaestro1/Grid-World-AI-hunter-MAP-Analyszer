@@ -1,4 +1,3 @@
-
 from graphics import *
 # create a default 200x200 window
 win=GraphWin ( " Tic-Tac-Toe " )

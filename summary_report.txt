@@ -1,0 +1,7 @@
+=== DOCUMENT ANALYSIS REPORT ===
+Total Line Count: 7
+Total Word Count: 27.0
+Average Word Length: 3.86
+Document Acronym Signature: ['2', '3', '7', 'a', 'f', 'i', 'k', 'm', 'm', 'p', 's', 'y']
+
+--- Sorted Unique Vocabulary ---
